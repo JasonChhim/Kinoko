@@ -99,3 +99,62 @@ li a:hover {
     font-family: "Poppins", sans-serif;
   
   }
+
+  /* Umami Section 3 */
+
+#umami {
+    height: 70vh;
+    background: url("img/recipe-banner.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  /* Nutrition Section 4 */
+  
+  #nutrition {
+    height: 90vh;
+    position: relative;
+  }
+  
+  .shroomimg {
+    float: right;
+    padding-right: 10rem;
+    padding-top: 8rem;
+  } 
+  
+  .nutritiontext {
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  top: 25%;
+  left: 15%;
+  }
+  
+  .nutritiontext h2 {
+    font-size: 5.5rem;
+    text-transform: uppercase;
+    padding-bottom: 2rem;
+  }
+  
+  .nutritiontext p {
+    font-size: 1.5rem;
+  }
+  
+  .readbtn {
+    text-decoration: none;
+    background:  #903f34;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0.4rem; 
+    font-size: 1.5rem;
+    position: absolute;
+    top: 72%;
+    left: 15%;
+  }
+  
+  .readbtn:hover {
+    color: white;
+    background:  #903f34;
+  }
