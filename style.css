@@ -35,7 +35,7 @@ li a:hover {
   color: black;
 }
 
-/* Header */
+/* Header Section 1 */
 #header {
   height: 100vh;
   background: url("img/banner-01.jpg");
@@ -43,3 +43,59 @@ li a:hover {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* Introduction Section 2 */
+#intro {
+    text-align: center;
+    height: 125vh;
+  }
+  
+  .introduction {
+    padding: 5rem 40rem 5rem 40rem;
+  }
+  
+  #intro h1 {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: #434343;
+  }
+  
+  #intro p{
+    font-family: "Bodoni Moda", serif;
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  .introbtn {
+    text-decoration: none;
+    background:  #903f34;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0.4rem; 
+  }
+  
+  .mushroom-img img{
+    padding: 2rem 4rem 0rem 4rem;
+  }
+  
+  .mushroom-img {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .mushroom-img h2 {
+    padding: 2rem 0 0 1.8rem;
+  
+  }
+  
+  .mushimg1, 
+  .mushimg2, 
+  .mushimg3 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+  
+  }
