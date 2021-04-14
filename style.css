@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Nav Menu */
+nav {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 7vh;
+  background-color: #903f34;
+  opacity: 0.8;
+}
+
+.logo {
+  height: 50%;
+}
+
+ul li {
+  list-style: none;
+  float: right;
+  padding-right: 4rem;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+}
+
+li a:hover {
+  color: black;
+}
+
+/* Header */
+#header {
+  height: 100vh;
+  background: url("img/banner-01.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
