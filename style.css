@@ -242,3 +242,21 @@ li a:hover {
     padding-top: 6rem;
     
   }
+
+  /* Footer */
+footer {
+    background: #903f34;
+    font-family: "Bodoni Moda", serif;
+    font-size: 1.6rem;
+    color: #ffffff;
+    height: 23vh;
+    padding-top: 2rem;
+    
+  }
+  .social-icon {
+    text-align: center;
+  }
+  .social-icon img {
+    padding: 1rem 1rem 0rem 1rem;
+    padding-bottom:1.8rem;
+  }
