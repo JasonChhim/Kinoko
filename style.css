@@ -85,6 +85,7 @@ li a:hover {
   }
   
   .mushroom-img {
+    color: #434343;
     display: flex;
     justify-content: center;
   }
@@ -132,6 +133,7 @@ li a:hover {
   #nutrition {
     height: 90vh;
     position: relative;
+    color: #434343;
   }
   
   .shroomimg {
@@ -183,6 +185,7 @@ li a:hover {
   }
   
   #articles {
+    color: #434343;
     height: 120vh;
   }
   
@@ -222,6 +225,7 @@ li a:hover {
   font-size: 3.5rem;
   text-align: center;
   padding: 8rem 0 2rem 0;
+  color: #434343;
   }
   
   .subscribebtn {
