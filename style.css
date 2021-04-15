@@ -111,6 +111,21 @@ li a:hover {
     background-size: cover;
     background-repeat: no-repeat;
   }
+
+  .umamibtn {
+    text-decoration: none;
+    background:  #903f34;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0.4rem; 
+    font-size: 1.5rem;
+    position: absolute;
+    top: 274%;
+    left: 59.4%;
+
+  }
   
   /* Nutrition Section 4 */
   
