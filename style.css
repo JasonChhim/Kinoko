@@ -49,14 +49,15 @@ li a:hover {
 /* Introduction Section 2 */
 #intro {
     text-align: center;
-    height: 125vh;
+    height: 130vh;
   }
   
   .introduction {
-    padding: 5rem 40rem 5rem 40rem;
+    padding: 5rem 33rem 5rem 33rem;
   }
   
   #intro h1 {
+    font-size: 3rem;
     font-family: "Poppins", sans-serif;
     text-align: center;
     color: #434343;
@@ -78,6 +79,12 @@ li a:hover {
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
     border-radius: 0.4rem; 
+  }
+
+  .introbtn:hover {
+    color: white;
+    background:  #903f34;
+    opacity: 70%;
   }
   
   .mushroom-img img{
@@ -123,9 +130,15 @@ li a:hover {
     border-radius: 0.4rem; 
     font-size: 1.5rem;
     position: absolute;
-    top: 274%;
+    top: 281%;
     left: 59.4%;
 
+  }
+
+  .umamibtn:hover {
+    color: white;
+    background:  #903f34;
+    opacity: 85%;
   }
   
   /* Nutrition Section 4 */
@@ -176,6 +189,7 @@ li a:hover {
   .readbtn:hover {
     color: white;
     background:  #903f34;
+    opacity: 70%;
   }
 
   /* Articles Section 5 */
@@ -210,6 +224,11 @@ li a:hover {
     font-size: 1.4rem;
   }
 
+  .seebtn:hover {
+    color: #434343;
+    opacity: 70%;
+  }
+
   .separator {
     text-align: center;
     padding-top: 16rem;
@@ -242,6 +261,7 @@ li a:hover {
   .subscribebtn:hover {
     color: white;
     background:  #903f34;
+    opacity: 70%;
   }
   
   .sub {
